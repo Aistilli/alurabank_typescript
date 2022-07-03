@@ -1,1 +1,0 @@
-# alurabank_typescript
